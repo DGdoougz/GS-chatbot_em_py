@@ -1,4 +1,4 @@
-# NotaryAI - Protótipo de Lógica Pura em Python (Global Solution)
+# NotaryAI - Protótipo de Lógica em Python (Global Solution)
 
 ## 1. 🚀 Visão Geral do Projeto
 
