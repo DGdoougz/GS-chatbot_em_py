@@ -61,3 +61,6 @@ Protocolos de Teste (Opção 2)Para testar a lógica de andamento do pedido, uti
 Wenderson da Silva Santos,RM: 567847
 Douglas Taveira Vilella Roberto,RM: 567846
 Igor Davi Avelar Rosa Cesário,RM: 568163
+
+
+Video explicativo https://youtu.be/8NSlPUawc-0
